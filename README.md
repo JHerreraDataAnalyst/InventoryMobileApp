@@ -4,21 +4,14 @@ A complete inventory system featuring a **Django REST Framework** backend and a 
 
 ## 📸 Application Screenshots
 
-### Dashboard (Home Screen)
-![Home Screen](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/HomeScreen.png?raw=true)
-*Real-time dashboard showing product metrics, low stock alerts, and daily sales*
+<div align="center">
+  
+| Dashboard | Quick Sale | Sales | Search |
+|:---:|:---:|:---:|:---:|
+| [![Home Screen](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/HomeScreen.png?raw=true)](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/HomeScreen.png?raw=true) | [![Quick Sale Screen](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/QuickSaleScreen.png?raw=true)](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/QuickSaleScreen.png?raw=true) | [![Sales Screen](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/SalesScreen.png?raw=true)](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/SalesScreen.png?raw=true) | [![Search Screen](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/SearchScreen.png?raw=true)](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/SearchScreen.png?raw=true) |
+| **Dashboard**<br>Real-time metrics | **Quick Sale**<br>Barcode scanning | **Sales Overview**<br>Daily revenue | **Product Search**<br>Advanced filtering |
 
-### Quick Sale Interface
-![Quick Sale Screen](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/QuickSaleScreen.png?raw=true)
-*Fast sales registration with barcode scanning and quantity management*
-
-### Sales Overview
-![Sales Screen](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/SalesScreen.png?raw=true)
-*Daily sales summary with revenue tracking and transaction history*
-
-### Product Search
-![Search Screen](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/SearchScreen.png?raw=true)
-*Advanced product search by name, code, or barcode*
+</div>
 
 ## 🏗️ Architecture
 
