@@ -2,6 +2,24 @@
 
 A complete inventory system featuring a **Django REST Framework** backend and a **React Native (Expo)** frontend, designed for quick sales and real-time stock management.
 
+## 📸 Application Screenshots
+
+### Dashboard (Home Screen)
+![Home Screen](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/HomeScreen.png?raw=true)
+*Real-time dashboard showing product metrics, low stock alerts, and daily sales*
+
+### Quick Sale Interface
+![Quick Sale Screen](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/QuickSaleScreen.png?raw=true)
+*Fast sales registration with barcode scanning and quantity management*
+
+### Sales Overview
+![Sales Screen](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/SalesScreen.png?raw=true)
+*Daily sales summary with revenue tracking and transaction history*
+
+### Product Search
+![Search Screen](https://github.com/JHerreraDataAnalyst/InventoryMobileApp/blob/main/src/screens/SearchScreen.png?raw=true)
+*Advanced product search by name, code, or barcode*
+
 ## 🏗️ Architecture
 
 * **Backend**: Django 5.2.7 + DRF + Python
